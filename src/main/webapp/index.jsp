@@ -4,7 +4,7 @@
 <sql:query var="rs" dataSource="jdbc/TestDB">
 select id, foo, bar from testdata
 </sql:query>
-
+<!-- ejemplo de comentario-->
 <html>
   <head>
     <title>DB Test 2</title>
